@@ -398,7 +398,6 @@ const styles = StyleSheet.create({
   buttonTextPrimary: {
     color: '#FFFFFF',
   },
-  // New styles required by README.md (Steps 3–5).
   buttonFollowing: {
     backgroundColor: COLORS.primaryLight,
   },
